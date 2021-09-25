@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IosStever/monsters-rolodex/static/css/main.b4ceb531.chunk.css",
+    "main.js": "/IosStever/monsters-rolodex/static/js/main.baf1797b.chunk.js",
+    "main.js.map": "/IosStever/monsters-rolodex/static/js/main.baf1797b.chunk.js.map",
+    "runtime-main.js": "/IosStever/monsters-rolodex/static/js/runtime-main.90767fe2.js",
+    "runtime-main.js.map": "/IosStever/monsters-rolodex/static/js/runtime-main.90767fe2.js.map",
+    "static/js/2.2e81aab3.chunk.js": "/IosStever/monsters-rolodex/static/js/2.2e81aab3.chunk.js",
+    "static/js/2.2e81aab3.chunk.js.map": "/IosStever/monsters-rolodex/static/js/2.2e81aab3.chunk.js.map",
+    "static/js/3.d73e4f7f.chunk.js": "/IosStever/monsters-rolodex/static/js/3.d73e4f7f.chunk.js",
+    "static/js/3.d73e4f7f.chunk.js.map": "/IosStever/monsters-rolodex/static/js/3.d73e4f7f.chunk.js.map",
+    "index.html": "/IosStever/monsters-rolodex/index.html",
+    "static/css/main.b4ceb531.chunk.css.map": "/IosStever/monsters-rolodex/static/css/main.b4ceb531.chunk.css.map",
+    "static/js/2.2e81aab3.chunk.js.LICENSE.txt": "/IosStever/monsters-rolodex/static/js/2.2e81aab3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90767fe2.js",
+    "static/js/2.2e81aab3.chunk.js",
+    "static/css/main.b4ceb531.chunk.css",
+    "static/js/main.baf1797b.chunk.js"
+  ]
+}
